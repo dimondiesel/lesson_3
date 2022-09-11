@@ -1,0 +1,28 @@
+*{
+	color: rgb(50, 42, 165);
+}
+h1,
+h3{
+	color: rgb(215, 17, 17);
+}
+.best h2{
+	color: rgb(198, 17, 215);
+}
+.text span{
+	color: black;
+}
+.second p{
+	color: aquamarine;
+}
+.small+p{
+	color: rgb(255, 178, 127);
+}
+.big~p{
+	color: rgb(176, 203, 44);
+}
+.block>p{
+	color: darkgreen;
+}
+.por .six{
+	color: rgb(0, 255, 145);
+}
